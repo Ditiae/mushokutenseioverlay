@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         for r/place2
 // @namespace    http://tampermonkey.net/
-// @version      2.6
+// @version      2.8
 // @description  try to take over the canvas!
 // @author       KTibow
 // @match        https://hot-potato.reddit.com/*
