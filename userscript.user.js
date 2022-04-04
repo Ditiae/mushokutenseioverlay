@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         for r/place2
 // @namespace    http://tampermonkey.net/
-// @version      69.420
+// @version      69.421
 // @description  try to take over the canvas!
 // @author       KTibow
 // @match        https://hot-potato.reddit.com/*
@@ -12,7 +12,7 @@
 window.addEventListener("load", () => {
     const container = document.querySelector("mona-lisa-embed").shadowRoot.querySelector("mona-lisa-canvas").shadowRoot.querySelector(".container");
     const overlay = document.createElement("img");
-    overlay.src = "https://cdn.discordapp.com/attachments/960026923814240338/960591998207795220/final_final_final_final.png";
+    overlay.src = "https://cdn.discordapp.com/attachments/960447685725388800/960612928602660924/actually_final.png";
     overlay.style = "position: absolute; left: 1841px; top: 667px; pointer-events: none; image-rendering: pixelated;";
     window.i = 0;
     setInterval(() => {
