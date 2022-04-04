@@ -12,7 +12,7 @@
 window.addEventListener("load", () => {
     const container = document.querySelector("mona-lisa-embed").shadowRoot.querySelector("mona-lisa-canvas").shadowRoot.querySelector(".container");
     const overlay = document.createElement("img");
-    overlay.src = "https://cdn.discordapp.com/attachments/390312001403879424/960340167242158110/rezero.png";
+    overlay.src = "https://cdn.discordapp.com/attachments/390312001403879424/960340868567552001/rezero.png";
     overlay.style = "position: absolute; left: 0px; top: 0px; pointer-events: none; image-rendering: pixelated;";
     window.i = 0;
     setInterval(() => {
