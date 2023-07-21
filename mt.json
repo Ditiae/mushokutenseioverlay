@@ -1,9 +1,9 @@
 {
-  "contact": "discord.gg/##",
-  "notifications": "##",
+  "contact": "https://discord.gg/mushokutensei",
+  "notifications": "",
   "templates": [
     {
-      "name": "MT",
+      "name": "Mushoku Tensei - Fitz",
       "sources": [
         "https://cdn.discordapp.com/attachments/960026923814240338/1132004761646927883/FitzCorrected.png"
       ],
