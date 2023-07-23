@@ -1,0 +1,16 @@
+{
+  "contact": "anime alliance",
+  "templates": [
+    {
+      "name": "komi",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132321298257821696/1132737878414336010/Sans_titre_-_3.png"
+
+      ],
+      "x": 1530,
+      "y": 1600
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
